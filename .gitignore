@@ -1,0 +1,8 @@
+cases/
+outputs/
+seg_hw/
+build/
+dist/
+.idea/
+*.pthgit 
+__pycache__/
