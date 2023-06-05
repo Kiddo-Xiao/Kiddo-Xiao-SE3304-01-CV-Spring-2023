@@ -4,5 +4,5 @@ seg_hw/
 build/
 dist/
 .idea/
-*.pthgit 
+*.pth 
 __pycache__/
