@@ -2,9 +2,6 @@
 
 
 
-## 关于路径的相关
-
-1. `src`是最一开始读进来的  全部都是单通道的 利用`self.src`存储
-2. `seg`是分割的前景照片，也是单通道的
-3. `roi`是分割好的roi，是3通道的。因此2-3之间需要一次转换。输出是通道的。
+Link of work introduction:
+https://github.com/Kiddo-Xiao/Kiddo-Xiao-SE3304-01-CV-Spring-2023/blob/%E5%A4%A7%E4%BD%9C%E4%B8%9A-%E6%8A%A5%E5%91%8A%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F/%5B%E8%B6%85%E5%A3%B0%E6%8A%A5%E5%91%8A%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F%5D%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%8A%A5%E5%91%8A_%E8%82%96%E8%94%9A%E5%B0%94.pdf
 
